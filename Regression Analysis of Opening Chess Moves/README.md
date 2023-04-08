@@ -7,4 +7,4 @@ For this project, I chose to perform analysis of the top five most used chess op
 
 ## Data
 
-Data for this project was pulled from Kaggle (https://www.kaggle.com/datasets) surrounding games played between online chess players. 
+Data for this project was pulled from Kaggle (https://www.kaggle.com/datasets) surrounding games played between online chess players.
