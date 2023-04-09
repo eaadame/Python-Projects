@@ -5,7 +5,7 @@ For this project, I sought to determine whether the opening moves made in a ches
 
 ## Data
 
-Data for this project was pulled from Kaggle (https://www.kaggle.com/datasets) surrounding games played between online chess players.
+Data for this project was pulled from [Kaggle](https://www.kaggle.com/datasets) surrounding games played between online chess players.
 
 
 ## Conclusion
