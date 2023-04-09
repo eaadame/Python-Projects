@@ -1,6 +1,6 @@
 ## About
 
-In this project, I examined the effects the Great Recession of 2007 had on insomnia rates in the United States. 
+In this project, I examined the effects the Great Recession of 2007 had on insomnia rates in the United States. I wanted to determine if the Great Recession increased insomnia within the United States and to what degree. 
 
 ## The Data
 
