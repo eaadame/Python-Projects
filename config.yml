@@ -1,39 +1,3 @@
-
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@eaadame 
-daattali
-/
-beautiful-jekyll
-Public
-Fork your own copy of daattali/beautiful-jekyll
-Code
-Issues
-6
-Pull requests
-1
-Discussions
-Actions
-Security
-Insights
-Beta Try the new code view
-beautiful-jekyll/_config.yml
-@daattali
-daattali google analytics config setting: encourage gtag, discourage google_an…
-…
-Latest commit cdfd011 last week
- History
- 45 contributors
-@daattali@OCram85@lexicalunit@eugenius1@VincentTam@lrdodge@jamesonzimmer@epwalsh@npes87184@kendaleiv@aisbergde@gpotter2
-294 lines (239 sloc)  9.9 KB
- 
-
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
