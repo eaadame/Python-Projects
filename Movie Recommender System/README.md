@@ -1,7 +1,8 @@
 ## About
+In this project, I built out a movie recommender system using a correlation matrix that matched user feedback to movies they had watched. 
 
 ## Data
-In this project, I referenced the steps found at Analytics India Magazine. (https://analyticsindiamag.com/how-to-build-your-first-recommender-system-using-python-movielens-dataset/)
+I referenced the steps found at Analytics India Magazine. (https://analyticsindiamag.com/how-to-build-your-first-recommender-system-using-python-movielens-dataset/)
 
 However, for this project, I ensured that the recommender system relied on specific user input in order for the system to work. This was done by including a simple UserInput option.
 
