@@ -36,10 +36,6 @@ This project created a model that would identify whether a system would be infec
 
 A regression analysis of the top 5 opening chess moves was conducted to determine if opening moves had any bearing on the overall outcome of the game. A statistically significant relationship between opening moves and game outcome was noted.
 
-9. [Placeholder Project 1](https://github.com/eaadame/Python-Projects/blob/main/Placeholder%20Project%201)
+9. [Sports Analytics - Null Hypothesis Testing and Logistic Regression]([https://github.com/eaadame/Python-Projects/blob/main/Placeholder%20Project%201](https://github.com/eaadame/Python-Projects/tree/main/Sports%20Analytics%20-%20Null%20Hypothesis%20Testing%20and%20Logistic%20Regression))
 
-This is a placeholder for an upcoming project that has not yet been completed.
-
-10. [Placeholder Project 2](https://github.com/eaadame/Python-Projects/blob/main/Placeholder%20Project%202)
- 
-This is a placeholder for an upcoming project that has not yet been defined.
+In this project, I used Null Hypothesis Testing and Logistic Regression to determine the aspects that make a team successful in the NCAA Men's Division 1 Basketball Tournament.
